@@ -29,5 +29,5 @@ I teach undergraduate and graduate courses in data science and machine learning.
 **AM91r** Directed Undergraduate Research, *Spring 2020*
 
 ## Outreach
-I organize the data science workshop for the annual Women in Data Science Cambridge (WiDS) conference: [WiDS Datathon Workshop 2020](https://onefishy.github.io/wids_datathon_2020/).
+Since 2018, I've been organizing the data science workshop for the annual Women in Data Science Cambridge (WiDS) conference: [WiDS Datathon Workshop 2020](https://onefishy.github.io/wids_datathon_2020/).
 
