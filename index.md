@@ -19,25 +19,14 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 12. Jiayu Yao, Weiwei Pan, Soumya Ghosh, Finale Doshi-Velez, [*Quality of Uncertainty Quantification for Bayesian Neural Network Inference*](https://arxiv.org/pdf/1906.09686.pdf), ICML UDL Workshop, 2019
 
 
-## Teaching
+## Recent Courses
 I teach undergraduate and graduate courses in data science and machine learning. I also supervise undergraduate and masters theses.
 
-#### Fall 2020
-  - **AM207** Advanced Scientific Computing: Stochastic Optimization Methods
-  
-#### Summer 2020
-  - **DSC6232** [Machine Learning and Computational Statistics (University of Rwanda)](https://onefishy.github.io/Rwanda-Data-Science/)
-
-#### Spring 2019
-  - **AC299r** Directed Research
-  - **AM91r** Directed Research
-
-#### Fall 2019
-  - **AM207** Advanced Scientific Computing: Stochastic Optimization Methods
-  
-#### Summer 2019
-  - **DSC6232** Machine Learning and Computational Statistics (University of Rwanda)<br>
-  - [Machine Learning Workshop (University of Rwanda)](https://github.com/onefishy/rwanda_workshop)
+**AM207** Advanced Scientific Computing: Stochastic Optimization Methods(Fall 2019, Fall 2020)<br>
+**DSC6232** [Machine Learning and Computational Statistics (University of Rwanda)](https://onefishy.github.io/Rwanda-Data-Science/) (Summer 2019, Summer 2020)<br>
+**Workshop** [Data Science Workshop (University of Rwanda)](https://github.com/onefishy/rwanda_workshop) (Summer 2019)<br>
+**AC299r** Directed Research (Spring 2020)<br>
+**AM91r** Directed Research (Sprint 2020)
 
 ## Outreach
 I organize the data science workshop for the annual Women in Data Science Cambridge (WiDS) conference: [WiDS Datathon Workshop 2020](https://onefishy.github.io/wids_datathon_2020/).
