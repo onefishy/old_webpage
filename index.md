@@ -12,7 +12,6 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 4. Yaniv Yacoby, Weiwei Pan, Finale Doshi-Velez, *Failure Modes of Variational Autoencoders and Their Effects on Downstream Tasks*, Submitted, 2020
 6. Javier Antorán, Jiayu Yao, Weiwei Pan, Finale Doshi-Velez, José Miguel Hernández-Lobato, [*Amortised Variational Inference for Hierarchical Mixture Models*](https://arxiv.org/pdf/2004.06230.pdf), Submitted, 2020
 7. Jiayu Yao, Emma Brunskill, Weiwei Pan, Susan Murphy, Finale Doshi-Velez, [*Power-Constrained Bandit*](), Submitted, 2020
-8. *Amortised Variational Inference for Hierarchical Mixture Models*, Submitted, 2020
 9. Yaniv Yacoby, Weiwei Pan, Finale Doshi-Velez, [*Characterizing and Avoiding Problematic Global Optima of Variational Autoencoders*](http://proceedings.mlr.press/v118/yacoby20a/yacoby20a.pdf), AABI, 2019
 10. Andrew Slavin Ross, Weiwei Pan, Leo Anthony Celi, Finale Doshi-Velez, [*Ensembles of Locally Independent Prediction Models*](), AAAI, 2019
 11. Yaniv Yacoby, Weiwei Pan, Finale Doshi-Velez, [*Improving Inference for Deep Bayesian Heteroscedastic Regression Models with Latent Variables*](https://arxiv.org/pdf/1911.00569.pdf), Pre-print, 2019
