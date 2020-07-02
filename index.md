@@ -1,6 +1,6 @@
 
 # About
-I'm a Research Associate at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University, working on machine learning research in the Data to Actionable Knowledge (DtAK) lab. Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. 
+I'm a Research Associate at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University, working on machine learning research in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with gauranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satifaction of domain-specific constraints. 
 
 In a former life, I did research in pure math (specifically algebraic topology) and was an Assistant Professor of Mathematics at Saint Mary's College of California.
 
