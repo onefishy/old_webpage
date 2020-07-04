@@ -6,7 +6,7 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 
 
 ## Recent Work
-1. Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, *BaCOUn: Bayesian Classifier with OOD Uncertainty*, Submitted, 2020
+1. Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, *BaCOUn: Bayesian Classifier with OOD Uncertainty*, ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020
 2. Sujay Thakur, Cooper Lorsung, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, [*Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks*](https://arxiv.org/abs/2006.11695), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020
 3. Michael Downs, Jonathan Chu, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, *CRUDS: Counterfactual Recourse Using Disentangled Subspaces*, Submitted, 2020
 4. Yaniv Yacoby, Weiwei Pan, Finale Doshi-Velez, *Failure Modes of Variational Autoencoders and Their Effects on Downstream Tasks*, ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020
