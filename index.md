@@ -6,7 +6,7 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 
 
 ## Recent Work
-0. Varun Tekur, Javin Pombra, Rose Hong and Weiwei Pan, [*Safety & Exploration: A Comparative Study of Uses of Uncertainty in Reinforcement Learning*], ICML Workshop on Uncertainty and Robustness in Deep Learning, 2021
+0. Varun Tekur, Javin Pombra, Rose Hong and Weiwei Pan, [*Safety & Exploration: A Comparative Study of Uses of Uncertainty in Reinforcement Learning*](), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2021
 1. Beau Coker, Weiwei Pan, Finale Doshi-Velez, [*Wide Mean-Field Variational Bayesian Neural Networks Ignore the Data*](https://arxiv.org/pdf/2106.07052.pdf), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2021
 2. Anita Mahinpei, Justin Clark, Isaac Lage, Finale Doshi-Velez, Weiwei Pan, [*The Promises and Pitfalls of Black-box Concept Learning Models*](http://arxiv.org/abs/2106.13314), ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021 
 3. Jiayu Yao, Emma Brunskill, Weiwei Pan, Susan Murphy, Finale Doshi-Velez, [*Power-Constrained Bandit*](https://arxiv.org/pdf/2004.06230.pdf), Machine Learning for Health Care (MLHC), 2021
