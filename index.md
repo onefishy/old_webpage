@@ -7,7 +7,7 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 
 ## Recent Work
 1. Beau Coker, Weiwei Pan, Finale Doshi-Velez, [*Wide Mean-Field Variational Bayesian Neural Networks Ignore the Data*](https://arxiv.org/pdf/2106.07052.pdf), Preprint, 2021
-2. Anita Mahinpei, Justin Clark, Isaac Lage, Finale Doshi-Velez, Weiwei Pan, *The Promises and Pitfalls of Black-box Concept Learning Models*, ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021 
+2. Anita Mahinpei, Justin Clark, Isaac Lage, Finale Doshi-Velez, Weiwei Pan, [*The Promises and Pitfalls of Black-box Concept Learning Models*](http://arxiv.org/abs/2106.13314), ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021 
 3. Jiayu Yao, Emma Brunskill, Weiwei Pan, Susan Murphy, Finale Doshi-Velez, [*Power-Constrained Bandit*](https://arxiv.org/pdf/2004.06230.pdf), Machine Learning for Health Care (MLHC), 2021
 4. Rylan Schaeffer, Blake Bordelon, Mikail Khona, Weiwei Pan, Ila Fiete, [*Efficient Online Inference for Nonparametric Mixture Models*](https://fietelabmit.files.wordpress.com/2021/06/final_camera_ready.pdf), Uncertainty in Artificial Intelligence (UAI), 2021
 5. Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan, [*BaCOUn: Bayesian Classifier with OOD Uncertainty*](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-085.pdf), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2020
