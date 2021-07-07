@@ -22,10 +22,10 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 ## Recent Courses
 I teach undergraduate and graduate courses in data science and machine learning. I also supervise undergraduate and masters theses.
 
-**AM207** [Advanced Scientific Computing: Stochastic Optimization Methods](https://onefishy.github.io/am207/), *Fall 2019, 2020, 2021*<br>
-**DSC6232** [Machine Learning and Computational Statistics at the University of Rwanda](https://onefishy.github.io/Rwanda-Data-Science/), *Summer 2019, Summer 2020*<br>
+**AM207** [Advanced Scientific Computing: Stochastic Optimization Methods](https://onefishy.github.io/am207/), *Fall 2019-2021*<br>
+**DSC6232** [Machine Learning and Computational Statistics at the University of Rwanda](https://onefishy.github.io/Rwanda-Data-Science/), *Summer 2019-2021*<br>
 **Workshop** [Data Science Workshop at the University of Rwanda](https://github.com/onefishy/rwanda_workshop), *Summer 2019*<br>
-**AC299r** [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/), *Fall 2020, 2021*<br>
+**AC299r** [Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/), *Fall 2020-2021*<br>
 **AC299r** Directed Graduate Research, *Spring 2020*<br>
 **AM91r** Directed Undergraduate Research, *Spring 2020*
 
