@@ -1,6 +1,6 @@
 
 # About
-I'm a Research Associate at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University, working on machine learning research in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with guaranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satisfaction of domain-specific constraints. 
+I'm the Data Science Graduate Program Advisor at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University, working on machine learning research in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with guaranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satisfaction of domain-specific constraints. 
 
 In a former life, I did research in pure math (specifically algebraic topology) and was an Assistant Professor of Mathematics at Saint Mary's College of California.
 
@@ -30,7 +30,7 @@ I teach undergraduate and graduate courses in data science and machine learning.
 **AM91r** Directed Undergraduate Research, *Spring*
 
 ## Outreach & Community Building
-Since 2018, I've been organizing the data science workshop for the annual Women in Data Science Cambridge (WiDS) conference: [WiDS Datathon Workshop 2022](https://onefishy.github.io/wids_datathon/). Since 2021, I've served as the co-chair of the [Worldwide WiDS Datathon](https://www.widsconference.org).
+Since 2018, I've been organizing the data science workshop for the annual Women in Data Science Cambridge (WiDS) conference: [WiDS Datathon Workshop 2022](https://onefishy.github.io/wids_datathon/). Since 2021, I've served as the co-director of the [Worldwide WiDS Datathon](https://www.widsconference.org).
 
 I am the organizer of IACS's [Data Science Pedagogy Winter Workshop](https://onefishy.github.io/data-science-workshop/) for educators of underrepresented college students in data science. I am also the faculty advisor of the [IACS Graduate Advisory Committee](https://iacs-gac.github.io/pages/about.html) and the facilitator of the [IACS Diversity, Inclusion, Leadership Reading Group](https://onefishy.github.io/DIL_in_tech/reading_group.html).
 
