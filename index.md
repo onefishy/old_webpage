@@ -36,5 +36,7 @@ I am the organizer of IACS's [Data Science Pedagogy Winter Workshop](https://one
 I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS students who are interested in receiving support and mentorship through their PhD application process. [Sign up for the 2022 PhD Working Group](https://forms.gle/cyVFBi5qoNw96DNW6). Recently, I have also begun serving as a mentor in the Career Development program at [DataPoint Armenia](https://datapoint.am/k-minds/).
 
 ## Contact
+
 **Fall 2022 Open Office Hours:** Tuesday, Thursday 3pm-4pm in *SEC 1.312*, Wednesday, Friday 9am-10am in *Sec 2.341*
+
 weiweipan (at) g (dot) harvard (dot) edu
