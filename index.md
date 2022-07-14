@@ -1,6 +1,6 @@
 
 # About
-I'm the Data Science Graduate Program Advisor at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University, working on machine learning research in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with guaranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satisfaction of domain-specific constraints. 
+I'm the Data Science Graduate Program Advisor at the [Institute of Applied Computational Sciences](https://iacs.seas.harvard.edu) at Harvard University. I'm also a machine learning researcher in the [Data to Actionable Knowledge (DtAK) lab](https://dtak.github.io). Currently, I am interested in uncertainty estimation for deep models; more broadly, I am interested in building models with guaranteed properties that align with task-specific desiderata, such as interpretability, risk-awareness, satisfaction of domain-specific constraints. 
 
 In a former life, I did research in pure math (specifically algebraic topology) and was an Assistant Professor of Mathematics at Saint Mary's College of California.
 
@@ -22,6 +22,7 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 ## Recent Courses
 I teach undergraduate and graduate courses in data science and machine learning. I also supervise undergraduate and masters theses. Students who are interested in research opportunities should reach out directly to me.
 
+**AC297r** Computational Science and Engineering Capstone Project, *Fall*<br>
 **AM207** [Advanced Scientific Computing: Stochastic Optimization Methods](https://onefishy.github.io/am207/), *Fall*<br>
 **DSC6232** [Machine Learning and Computational Statistics at the University of Rwanda](https://onefishy.github.io/Rwanda-Data-Science/), *Summer*<br>
 **Workshop** [Data Science Workshop at the University of Rwanda](https://github.com/onefishy/rwanda_workshop), *Summer 2019*<br>
@@ -34,7 +35,8 @@ Since 2018, I've been organizing the data science workshop for the annual Women 
 
 I am the organizer of IACS's [Data Science Pedagogy Winter Workshop](https://onefishy.github.io/data-science-workshop/) for educators of underrepresented college students in data science. I am also the faculty advisor of the [IACS Graduate Advisory Committee](https://iacs-gac.github.io/pages/about.html) and the facilitator of the [IACS Diversity, Inclusion, Leadership Reading Group](https://onefishy.github.io/DIL_in_tech/reading_group.html).
 
-Lastly, I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS students who are interested in receiving support and mentorship through their PhD application process. [Sign up for the 2022 PhD Working Group](https://forms.gle/cyVFBi5qoNw96DNW6).
+I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS students who are interested in receiving support and mentorship through their PhD application process. [Sign up for the 2022 PhD Working Group](https://forms.gle/cyVFBi5qoNw96DNW6). Recently, I have also begun serving as a mentor in the Career Development program at [DataPoint Armenia](https://datapoint.am/k-minds/).
 
 ## Contact
+**Fall 2022 Open Office Hours:** Tuesday, Thursday 3pm-4pm in *SEC 1.312*, Wednesday, Friday 9am-10am in *Sec 2.341*
 weiweipan (at) g (dot) harvard (dot) edu
