@@ -18,7 +18,7 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 
 
 ## Recent Courses
-I teach undergraduate and graduate courses in data science and machine learning. I also supervise undergraduate and graduate research. Students who are interested in research opportunities should **reach out directly to me**.
+I teach undergraduate and graduate courses in data science and machine learning. I also supervise undergraduate and graduate research. Students  interested in research opportunities should **reach out directly to me**.
 
 **AC297r** [Computational Science and Engineering Capstone Project](https://www.capstone.iacs.seas.harvard.edu), *Fall*<br>
 **AM207** [Advanced Scientific Computing: Stochastic Optimization Methods](https://onefishy.github.io/am207/), *Fall 2019-2021*<br>
