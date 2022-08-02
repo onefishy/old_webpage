@@ -42,6 +42,6 @@ I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS s
 
 **Fall 2022 Open Office Hours** 
  - Tuesday, Thursday 2.00pm-3.30pm in *SEC 1.312*
- - Wednesday, Friday 9.30am-11.00am in *SEC 2.341*
+ - Wednesday, Friday 8.30am-10.00am in *SEC 2.341*
 
 weiweipan (at) g (dot) harvard (dot) edu
