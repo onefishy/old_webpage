@@ -38,7 +38,7 @@ I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS s
 ## Contact
 
 **Fall 2022 Course Advising Hours (Open to G2s Only)**
-- August 8th - August 12th, [Sign-up for Fall Course Advising (G2)](https://calendly.com/weiweipan/august-advising-session-g2)over *Zoom*
+- August 8th - August 12th, [Sign-up for Fall Course Advising (G2)](https://calendly.com/weiweipan/august-advising-session-g2), over *Zoom*
 
 **Fall 2022 Course Advising Hours (Open to All)**
  - August 16th - August 26th, [Sign-up for Fall Course Advising (G1 & G2)](https://calendly.com/weiweipan/30min), over *Zoom*
