@@ -37,14 +37,13 @@ I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS s
 
 ## Contact
 
-**Fall 2022 Course Advising Hours (Open to G2s Only)**
-- August 8th - August 12th, [Sign-up for Fall Course Advising (G2)](https://calendly.com/weiweipan/august-advising-session-g2), over *Zoom*
-
 **Fall 2022 Course Advising Hours (Open to All)**
  - August 16th - August 26th, [Sign-up for Fall Course Advising (G1 & G2)](https://calendly.com/weiweipan/30min), over *Zoom*
 
 **Fall 2022 Open Office Hours** 
  - Tuesday, Thursday 2.00pm-3.30pm in *SEC 1.312*
  - Wednesday, Friday 8.30am-10.00am in *SEC 2.341*
+
+***Note for Advisees:*** During the Fall semester please prioritize using my open office hours to address your questions. My responses to emails will be *slow*. If you want to reach out via email with advising questions, please preface the email subject with "[ADVISING]"; I may very well miss advising emails without this preface in the subject.
 
 weiweipan (at) g (dot) harvard (dot) edu
