@@ -37,8 +37,8 @@ I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS s
 
 ## Contact
 
-**Fall 2022 Course Advising Hours (Open to All)**
- - August 16th - August 26th, [Sign-up for Fall Course Advising (G1 & G2)](https://calendly.com/weiweipan/30min), over *Zoom*
+**Fall 2022 Research Discussion Hours (Open to All)**
+ - August 29th - August 30th, [Sign-up for Fall Research Discussion](https://calendly.com/weiweipan/research-discussion), *In-Person*
 
 **Fall 2022 Open Office Hours** 
  - Tuesday, Thursday 2.00pm-3.30pm in *SEC 1.312*
