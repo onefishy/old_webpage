@@ -36,9 +36,9 @@ I am the organizer of IACS's [Data Science Pedagogy Winter Workshop](https://one
 I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS students who are interested in receiving support and mentorship through their PhD application process. [Sign up for the 2022 PhD Working Group](https://forms.gle/cyVFBi5qoNw96DNW6). Recently, I have also begun serving as a mentor in the Career Development program at [DataPoint Armenia](https://datapoint.am/k-minds/).
 
 ## Contact
-
-**Fall 2022 Research Discussion Hours (Open to All)**
- - August 29th - August 30th, [Sign-up for Fall Research Discussion](https://calendly.com/weiweipan/research-discussion), *In-Person*
+**Fall 2022 Capstone Office Hours**
+ - Tuesday 1:00pm - 2:00pm in *SEC 1.312*
+ - Wednesday 10:00am - 11:00am in *SEC 2.314*
 
 **Fall 2022 Open Office Hours** 
  - Tuesday, Thursday 2.00pm-3.30pm in *SEC 1.312*
