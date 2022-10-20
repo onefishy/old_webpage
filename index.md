@@ -38,7 +38,7 @@ I'm the faculty mentor of the IACS PhD Working Group, a working group for IACS s
 ## Contact
 **Fall 2022 Capstone Office Hours**
  - Tuesday 1:00pm - 2:00pm in *SEC 1.312*
- - Wednesday 10:00am - 11:00am in *SEC 2.314*
+ - Wednesday 10:00am - 11:00am in *SEC 2.341*
 
 **Fall 2022 Open Office Hours** 
  - Tuesday, Thursday 2.00pm-3.30pm in *SEC 1.312*
