@@ -13,12 +13,9 @@ In a former life, I did research in pure math (specifically algebraic topology) 
 5. Jiayu Yao, Sonali Parbhoo, Weiwei Pan, Finale Doshi-Velez, [*Policy Optimization with Sparse Global Contrastive Explanations*](http://arxiv.org/abs/2207.06269), ICML Workshop on Interpretable Machine Learning in Healthcare, 2022
 6. Mark Penrod, Harrison Termotto, Varshini Reddy, Jiayu Yao, Finale Doshi-Velez, Weiwei Pan, [*Success of Uncertainty-Aware Deep Models Depends on Data Manifold Geometry*](https://responsibledecisionmaking.github.io/assets/pdf/papers/34.pdf), ICML Workshop on Responsible Decision Making in Dynamic Environments, 2022
 7. Xin Zheng, Jiayu Yao, Finale Doshi-Velez, Weiwei Pan, [*From Soft Trees to Hard Trees: Gains and Losses*](https://responsibledecisionmaking.github.io/assets/pdf/papers/33.pdf), ICML Workshop on Responsible Decision Making in Dynamic Environments, 2022
-8. Beau Coker, Wessel P. Bruinsma, David R. Burt, Weiwei Pan, Finale Doshi-Velez, [*Wide Mean-Field Variational Bayesian Neural Networks Ignore the Data*](https://proceedings.mlr.press/v151/coker22a/coker22a.pdf), Artificial Intelligence and Statistics (AIStats), 2022
-9. Beau Coker, Weiwei Pan, Finale Doshi-Velez, [*Wide Mean-Field Variational Bayesian Neural Networks Ignore the Data*](https://arxiv.org/pdf/2106.07052.pdf), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2021
-10. Anita Mahinpei, Justin Clark, Isaac Lage, Finale Doshi-Velez, Weiwei Pan, [*The Promises and Pitfalls of Black-box Concept Learning Models*](http://arxiv.org/abs/2106.13314), ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021 
-11. Varun Tekur, Javin Pombra, Rose Hong and Weiwei Pan, [*Safety & Exploration: A Comparative Study of Uses of Uncertainty in Reinforcement Learning*](), ICML Workshop on Uncertainty and Robustness in Deep Learning, 2021
-12. Jiayu Yao, Emma Brunskill, Weiwei Pan, Susan Murphy, Finale Doshi-Velez, [*Power-Constrained Bandit*](https://arxiv.org/pdf/2004.06230.pdf), Machine Learning for Health Care (MLHC), 2021
-13. Rylan Schaeffer, Blake Bordelon, Mikail Khona, Weiwei Pan, Ila Fiete, [*Efficient Online Inference for Nonparametric Mixture Models*](https://fietelabmit.files.wordpress.com/2021/06/final_camera_ready.pdf), Uncertainty in Artificial Intelligence (UAI), 2021
+8. Anita Mahinpei, Justin Clark, Isaac Lage, Finale Doshi-Velez, Weiwei Pan, [*The Promises and Pitfalls of Black-box Concept Learning Models*](http://arxiv.org/abs/2106.13314), ICML Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI, 2021 
+9. Jiayu Yao, Emma Brunskill, Weiwei Pan, Susan Murphy, Finale Doshi-Velez, [*Power-Constrained Bandit*](https://arxiv.org/pdf/2004.06230.pdf), Machine Learning for Health Care (MLHC), 2021
+10. Rylan Schaeffer, Blake Bordelon, Mikail Khona, Weiwei Pan, Ila Fiete, [*Efficient Online Inference for Nonparametric Mixture Models*](https://fietelabmit.files.wordpress.com/2021/06/final_camera_ready.pdf), Uncertainty in Artificial Intelligence (UAI), 2021
 
 
 ## Recent Courses
